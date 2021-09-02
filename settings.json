@@ -1,0 +1,22 @@
+{
+  "workbench.startupEditor": "none",
+  "vscode-neovim.neovimExecutablePaths.darwin": "/usr/local/bin/nvim",
+  "workbench.iconTheme": "vscode-icons",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.minimap.enabled": false,
+  "vim.vimrc.enable": true,
+  "vim.vimrc.path": "$HOME/Library/Application\ Support/Code/User/.vimrc",
+  "editor.tabSize": 2,
+  "terminal.integrated.tabs.enabled": true,
+  "mdmath.delimiters": "gitlab",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll": true,
+    "source.fixAll.stylelint": true
+  },
+  "eslint.format.enable": true,
+  "gitlens.advanced.messages": {
+    "suppressGitDisabledWarning": true
+  }
+}
