@@ -5,7 +5,7 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.minimap.enabled": false,
   "vim.vimrc.enable": true,
-  "vim.vimrc.path": "$HOME/Library/Application\ Support/Code/User/.vimrc",
+  "vim.vimrc.path": "$HOME/Library/Application Support/Code/User/.vimrc",
   "editor.tabSize": 2,
   "terminal.integrated.tabs.enabled": true,
   "mdmath.delimiters": "gitlab",
