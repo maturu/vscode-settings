@@ -18,5 +18,6 @@
   "eslint.format.enable": true,
   "gitlens.advanced.messages": {
     "suppressGitDisabledWarning": true
-  }
+  },
+  "javascript.validate.enable": false
 }
